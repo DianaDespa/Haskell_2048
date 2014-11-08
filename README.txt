@@ -1,6 +1,4 @@
-Despa Diana Alexandra 321CA
-
-	Haskell: 2048
+Haskell: 2048
 
 	Tabla si mutarile
 		Am reprezentat tabla de joc printr-o structura formata dintr-o lista de
